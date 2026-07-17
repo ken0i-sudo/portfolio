@@ -7,7 +7,7 @@ import { stats } from "@/lib/data";
 import { siteConfig } from "@/lib/constants";
 
 const highlights = [
-  "4+ years building production web applications",
+  "45+ days building production web applications",
   "Deep focus on performance, accessibility & SEO",
   "Comfortable across the full stack, from Figma to deployment",
   "Clear communicator who thrives in cross-functional teams",
@@ -30,7 +30,7 @@ export function About() {
               <div className="glass-card overflow-hidden rounded-[2rem] p-2">
                 <div className="relative aspect-[4/5] w-full overflow-hidden rounded-[1.6rem]">
                   <Image
-                    src="https://images.unsplash.com/photo-1531482615713-2afd69097998?q=80&w=1200&auto=format&fit=crop"
+                    src="https://images.unsplash.com/photo-1783538771515-78a987fcdbbf?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
                     alt={`${siteConfig.name} working at a desk with a laptop`}
                     fill
                     sizes="(min-width: 1024px) 420px, 320px"

@@ -1,4 +1,4 @@
-# Aarav Mehta — Personal Portfolio
+# Dhavan Chaudhari — Personal Portfolio
 
 A modern, production-ready personal portfolio website built with **Next.js 14 (App Router)**, **TypeScript**, **Tailwind CSS** and **Framer Motion**. Designed to look and feel like a premium, agency-built site while remaining fully editable, accessible and SEO-optimized — ideal as a final-year capstone project or a real personal site.
 
